@@ -5,7 +5,7 @@ Calculate Average Percentage: Divide the total marks by the total number of subj
 average percentage.
 Grade Calculation: Assign grades based on the average percentage achieved.
 Print Results: Show the total marks, average percentage, and the corresponding grade to the user
-#Currency Converter
+# Currency Converter
 Currency Selection: Allow the user to choose the base currency and the target
 currency.
 Currency Rates: Fetch real-time exchange rates from a reliable API.
